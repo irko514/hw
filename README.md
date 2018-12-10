@@ -1,2 +1,4 @@
 # hw
-training
+
+Hello!
+It's version for training
